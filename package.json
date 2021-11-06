@@ -1,0 +1,24 @@
+{
+  "name": "mongo-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzairali19/mongo-node.git"
+  },
+  "author": "Uzair Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzairali19/mongo-node/issues"
+  },
+  "homepage": "https://github.com/uzairali19/mongo-node#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.10"
+  }
+}
